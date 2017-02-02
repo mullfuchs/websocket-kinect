@@ -1,16 +1,16 @@
 # On Mac OS (Lion) with homebrew:
 
-brew install cmake
-brew install automake
-brew install autoconf
-brew install libtool
-brew install pkg-config
-brew install xz
-brew install wget
-sudo easy_install pylzma
-sudo easy_install pip
-sudo pip install cython
-sudo pip install numpy
+brew install cmake X
+brew install automake X
+brew install autoconf x
+brew install libtool x
+brew install pkg-config x
+brew install xz x
+brew install wget x
+sudo easy_install pylzma x 
+sudo easy_install pip x
+sudo pip install cython x
+sudo pip install numpy 
 sudo pip install autobahn
 
 cd /usr/local/Library/Formula
